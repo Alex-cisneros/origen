@@ -61,3 +61,31 @@ li{
 	height: 50px;
 	background: #fff;
 }
+/**
+ * Footer section
+ */
+footer {
+	font-family: Gotham_Book;
+	background: #FF8118;
+}
+footer h2 {
+	text-align: left;
+}
+footer h1 {
+	text-align: center;
+}
+footer a {
+	font-family: Gotham_Book;
+	color: #fff;
+}
+.icons {
+	margin: 10px 15px;
+	color: white;
+}
+.direccion span{
+	font-family: Gotham_Book;
+}
+.footer2 {
+	background: #807F83;
+	padding-top: 10px;
+}
