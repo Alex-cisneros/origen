@@ -72,20 +72,16 @@ footer h2 {
 	text-align: left;
 }
 footer h1 {
-	text-align: center;
+	text-align: left;
 }
 footer a {
 	font-family: Gotham_Book;
 	color: #fff;
-}
-.icons {
-	margin: 10px 15px;
-	color: white;
 }
 .direccion span{
 	font-family: Gotham_Book;
 }
 .footer2 {
 	background: #807F83;
-	padding-top: 10px;
+	padding-top: 15px;
 }
