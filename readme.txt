@@ -1,1 +1,3 @@
 Project notes
+
+Explained
