@@ -1,0 +1,67 @@
+/**
+ * Fonts
+ */
+@font-face {
+	font-family: Gotham_Book;
+	src:url('../fonts/Gotham-Book.ttf')format('truetype');
+}
+@font-face {
+	font-family: Gotham_Bold;
+	src:url('../fonts/Gotham-Bold.ttf')format('truetype');
+}
+
+body{
+	color:white;
+	font-family: Raleway-ExtraBold;
+}
+.div1{
+	background: #807f83;
+	text-transform: uppercase;
+	text-transform: bold;
+	font-family: Montserrat-Black;
+}
+.div2{
+	background: #ff8118;
+	text-transform: uppercase;
+}
+.div3{
+		background: #fff;
+		text-transform: uppercase;
+}
+/**
+ * nav section
+ */
+.nav {
+	font-family: Gotham_Book;
+	color:#fff; 
+}
+.nav li a {
+	padding-top:25px;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+.ul1{
+	color:#fff;
+	width: auto;
+	height: 70px;
+}
+li{
+	color:white;
+}
+.colorblanco{
+	color:#fff;
+}
+.logo {
+	background: #fff;
+}
+.logo img {
+	margin-top: -10px;
+	margin-bottom: -10px;
+	height: 50px;
+	background: #fff;
+}
+.pa{
+	font-family:Gotham-Book;
+	color: black;
+}
